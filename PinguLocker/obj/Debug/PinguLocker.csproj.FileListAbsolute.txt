@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\PinguLocker\PinguLocker\bin\Debug\PinguLocker.exe.config
+C:\Users\admin\source\repos\PinguLocker\PinguLocker\bin\Debug\PinguLocker.exe
+C:\Users\admin\source\repos\PinguLocker\PinguLocker\bin\Debug\PinguLocker.pdb
+C:\Users\admin\source\repos\PinguLocker\PinguLocker\obj\Debug\PinguLocker.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\PinguLocker\PinguLocker\obj\Debug\PinguLocker.Form1.resources
+C:\Users\admin\source\repos\PinguLocker\PinguLocker\obj\Debug\PinguLocker.Properties.Resources.resources
+C:\Users\admin\source\repos\PinguLocker\PinguLocker\obj\Debug\PinguLocker.WindowsLocked.resources
+C:\Users\admin\source\repos\PinguLocker\PinguLocker\obj\Debug\PinguLocker.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\PinguLocker\PinguLocker\obj\Debug\PinguLocker.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\PinguLocker\PinguLocker\obj\Debug\PinguLocker.exe
+C:\Users\admin\source\repos\PinguLocker\PinguLocker\obj\Debug\PinguLocker.pdb
